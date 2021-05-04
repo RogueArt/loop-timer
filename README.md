@@ -1,5 +1,5 @@
 # About
-This is a simple GUI loop timer written in AutoHotkey meant for productive use. As the timer runs and resets repeatedly, it can be used for homework, workouts, and other applications. Since the timer waits for you to reset it, there is some flexibility in how long it runs for.
+This is a desktop GUI loop timer for Windows. As this timer runs and resets repeatedly, it's useful for homework, workouts, and other applications where events should occur at repeat intervals. Since the timer waits for you to reset it, there is some flexibility in how long it runs for.
 
 The amount of minutes the timer runs for is customizable and the design emphasizes low desktop footprint.
 
