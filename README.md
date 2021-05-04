@@ -33,4 +33,4 @@ This will produce a portable .exe that is identical to the one listed in release
 
 # Trivia
 
-The loop timer seems to affect the perception of time to a significant extent. Setting the loop timer to 1 minute, every iteration the minute felt longer to me. After about 7 or 8 iterations, **every minute was felt five times as long as it did the first iteration**. There is potential research to be done with this as this implies that a loop timer could be used to stretch out a time period by a significant extent. 
+The loop timer seems to affect the perception of time to a significant extent. Setting the loop timer to 1 minute, every iteration resulted in my perception of time slowing down. After about 7 or 8 iterations, **every minute felt five times as long as it did the first iteration**. There is potential research to be done with this as this implies that a loop timer could be used to modify and augment the perception of time allowing for large productivity increases.
